@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Jonas Funcke
+Software Engineer from Gallneukirchen, Austria.
 
-You can use the [editor on GitHub](https://github.com/Funcke/funcke.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Technical Experience
+__Software Engineer__ @ [Runtastic](https://www.runtastic.com/) (Jan. 2020 - Present)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sports Software for Running & Workouts.
+* Developing [Runtastic Partner API](https://developers.runtastic.com/default/documentation/partner-api)
+* Building and extending Garmin-Runtastic integration
+* Building and extending Polar-Runtastic integration
 
-### Markdown
+Technologies used: Ruby, Sinatra, Rspec, Git, Json-API, OpenAPI 3, MongoDB, Sidekiq, Docker, Jenkins
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__Software Engineering Intern__ @ [Runtastic](https://www.runtastic.com/) (Aug. 2019 - Sept. 2019)
 
-```markdown
-Syntax highlighted code block
+Sports Software for Running & Workouts.
+* Developing REST services powering Runtastic Running.
+* Planning tooling & structure around [Runtastic Partner API](https://developers.runtastic.com/default/documentation/partner-api)
 
-# Header 1
-## Header 2
-### Header 3
+Technologies used: Ruby, Sinatra, Rspec, Git, Json-API, OpenAPI 3
 
-- Bulleted
-- List
+__Software Engineering Intern & Diploma Thesis__ @ [Dynatrace](https://www.dynatrace.com/) (May. 2019 - July 2019)
 
-1. Numbered
-2. List
+Application Performance Monitoring
+* Developing an algorithm for analyzing changes in APIs through OpenAPI 3 specifications
+* Web interface utlizing the algorithm
+* CLI utilizing the algorithm
 
-**Bold** and _Italic_ and `Code` text
+Technologies used: Java, Javax-RS, Jersey, Jetty, jUnit, OpenAPI 3, Angular 8, Bootstrap
 
-[Link](url) and ![Image](src)
-```
+__Software Engineering Intern__ @ [Dynatrace](https://www.dynatrace.com/) (July 2018 - August 2018)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Application Performance Monitoring
+* Developing REST APIs for customer usage
 
-### Jekyll Themes
+Technologies used: Java, Javax-RS, Jersey, Jetty, jUnit, JSP, Cassandra, Elastic Search, OpenAPI 2
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Funcke/funcke.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## When I am not working
+__Volunteer Firefighter__ @ [Freiwillige Feuerwehr Gallneukirchen](https://ffgallneukirchen.at) (since 2012)
 
-### Support or Contact
+Volunteer Firedepartment of the Stadt Gallneukirchen.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+__Volunteer Ambulanceman (in training)__ @ [Red Cross Austria](https://www.roteskreuz.at/ooe/dienststellen/urfahr-umgebung/die-bezirksstelle/die-ortsstellen/gallneukirchen/unser-team/) (since 2020)
+
+## Education
+__Higher Technical College Linz__ (2015 - 2020)

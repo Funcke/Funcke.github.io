@@ -38,9 +38,10 @@ Technologies used: Java, Javax-RS, Jersey, Jetty, jUnit, JSP, Cassandra, Elastic
 ## When I am not working
 __Volunteer Firefighter__ @ [Freiwillige Feuerwehr Gallneukirchen](https://ffgallneukirchen.at) (since 2012)
 
-Volunteer Firedepartment of the Stadt Gallneukirchen.
+Volunteer Firedepartment of the Stadt Gallneukirchen, Austria.
 
 __Volunteer Ambulanceman (in training)__ @ [Red Cross Austria](https://www.roteskreuz.at/ooe/dienststellen/urfahr-umgebung/die-bezirksstelle/die-ortsstellen/gallneukirchen/unser-team/) (since 2020)
 
 ## Education
-__Higher Technical College Linz__ (2015 - 2020)
+* __Higher Technical College Linz__ (2015 - 2020)
+* __Bischöfliches Gymnaisum Petrinum__ (2011 - 2015)
